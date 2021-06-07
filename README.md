@@ -1,5 +1,7 @@
 # Solar Power Forecasting
 
+## Skills Exhibited: Python, Data Analysis, Time Series Analysis, Forecasting, Machine Learning, LSTM
+
 In this project, I have used different methods to forecast the power production of solar panels.   
 Below are the methods that I have used:   
 - Moving Average
